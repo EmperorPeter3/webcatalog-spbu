@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "SyllabusPortal"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-SyllabusPortal-47023995-cbca-4f2d-b198-79f49261b19d;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

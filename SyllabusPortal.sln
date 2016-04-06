@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCatalog", "StudyCatalog\StudyCatalog.csproj", "{21683837-BF3D-42A3-9DE2-78AEBD139A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCatalog.DataModel", "StudyCatalog.DataModel\StudyCatalog.DataModel.csproj", "{F7981886-E0E7-4454-8F53-D1172255E44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCatalog.Repository", "StudyCatalog.Repository\StudyCatalog.Repository.csproj", "{9EC0E8BD-CD9A-490B-BEF5-54F989B448CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAndLoadTestProject1", "WebAndLoadTestProject1\WebAndLoadTestProject1.csproj", "{E7FA8E40-6DB1-4A53-B9EE-EE8D780AB233}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38C05C0B-0F60-4F96-A4A6-4942EFBA0564}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21683837-BF3D-42A3-9DE2-78AEBD139A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21683837-BF3D-42A3-9DE2-78AEBD139A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21683837-BF3D-42A3-9DE2-78AEBD139A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21683837-BF3D-42A3-9DE2-78AEBD139A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7981886-E0E7-4454-8F53-D1172255E44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7981886-E0E7-4454-8F53-D1172255E44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7981886-E0E7-4454-8F53-D1172255E44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7981886-E0E7-4454-8F53-D1172255E44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC0E8BD-CD9A-490B-BEF5-54F989B448CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC0E8BD-CD9A-490B-BEF5-54F989B448CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC0E8BD-CD9A-490B-BEF5-54F989B448CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC0E8BD-CD9A-490B-BEF5-54F989B448CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7FA8E40-6DB1-4A53-B9EE-EE8D780AB233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FA8E40-6DB1-4A53-B9EE-EE8D780AB233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FA8E40-6DB1-4A53-B9EE-EE8D780AB233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FA8E40-6DB1-4A53-B9EE-EE8D780AB233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://quakke23.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = StudyCatalog\\StudyCatalog.csproj
+		SccProjectName1 = StudyCatalog
+		SccLocalPath1 = StudyCatalog
+		SccProjectUniqueName2 = StudyCatalog.DataModel\\StudyCatalog.DataModel.csproj
+		SccProjectName2 = StudyCatalog.DataModel
+		SccLocalPath2 = StudyCatalog.DataModel
+		SccProjectUniqueName3 = StudyCatalog.Repository\\StudyCatalog.Repository.csproj
+		SccProjectName3 = StudyCatalog.Repository
+		SccLocalPath3 = StudyCatalog.Repository
+		SccProjectUniqueName4 = WebAndLoadTestProject1\\WebAndLoadTestProject1.csproj
+		SccProjectName4 = WebAndLoadTestProject1
+		SccLocalPath4 = WebAndLoadTestProject1
+	EndGlobalSection
+EndGlobal
